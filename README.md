@@ -116,5 +116,5 @@ After completing the setup:
 
 ```bash
 npm run dev
-
-This will start the development server, and the application will open in your browser, usually at http://localhost:5173.
+```
+This will start the development server, and the application will open in your browser, usually at `http://localhost:5173`.
