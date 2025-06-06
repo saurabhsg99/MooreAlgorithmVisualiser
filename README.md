@@ -61,10 +61,6 @@ Make sure you have Node.js and npm (Node Package Manager) installed:
 
 1.  **Clone the repository:**
 
-    ```bash
-    git clone [https://github.com/saurabhsg99/MooreAlgorithmVisualiser.git](https://github.com/saurabhsg99/MooreAlgorithmVisualiser.git)
-    cd YOUR_REPOSITORY_NAME # Replace with your actual repo name
-    ```
 
 2.  **Install dependencies:**
 
